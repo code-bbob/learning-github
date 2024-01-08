@@ -6,3 +6,5 @@ for x in range(5):
 x = int(input("give a value"))
 if (x>5):
     print('True')
+if (x>9):
+    print('Very True')
