@@ -1,1 +1,1 @@
-print("learning github conflicts")
+print("learning pull conflicts")
